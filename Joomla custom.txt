@@ -1,0 +1,33 @@
+
+ in addition to having the logos be the same size, 
+ i also want to change the header color theme on each site,
+
+
+  `````and then have little details changed such as at the bottom of every page it says "Copyright Sonoma Racquets 2019" but that wording will need to change for each site.
+
+ the little "SR" icon next to each site name in the web search bar will need to be removed or changed.
+  title 
+
+Nate Gross: let me know if you need the joomla login?
+
+
+
+
+
+
+
+cityracquets.com/administrator
+marinracquets.com/administrator 
+peninsulaleague.com/administrator
+ 
+ user: nategross
+ password: oceangear1
+
+
+------------solution---------------
+extensions/template/style (theme, layout.)
+menu/main menu/(home menu edit item module assign)
+
+
+
+Joseph_Up  Godaday.com
